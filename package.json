@@ -1,5 +1,8 @@
 {
   "name": "consuldemocracy",
+  "engines": {
+    "node": "18.20.3"
+  },
   "dependencies": {
     "blueimp-file-upload": "^10.32.0",
     "foundation-sites": "^6.8.1",
