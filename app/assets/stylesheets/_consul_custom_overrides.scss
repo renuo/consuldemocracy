@@ -10,3 +10,16 @@
 //
 // The variables you can override are defined in the
 // `_settings.scss` and `_consul_settings.scss` files.
+
+$brand:             #4c2039;
+$highlight:         #f3e3ec;
+$highlight-soft:    #f7ebf2;
+$light:             #faf4f7;
+
+$foundation-palette: (
+  primary: $brand,
+  secondary: #767676,
+  success: #3adb76,
+  warning: #ffae00,
+  alert: #cc4b37,
+);
